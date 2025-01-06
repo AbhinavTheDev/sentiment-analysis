@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 1. Enter some detail of company which you would like to analyze
 2. Click the "Start Analysis" button.
 3. View the sentiment result, keyword analysis and Volume Analytics displayed on the screen.
-4. For further queries and questions, you can integrate with **Senti-GPT** (AI-Powered Chatbot for Analysis)
+4. For further queries and questions, you can interact with **Senti-GPT** (AI-Powered Chatbot for Analysis)
 ## Technologies Used
 
 - **Frontend**:
